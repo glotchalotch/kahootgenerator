@@ -1,0 +1,52 @@
+html {background-color: lightblue}
+
+.question {
+    position: absolute;
+    left: 1px
+}
+
+.length {
+    position: absolute;
+    left: 166.8px
+}
+
+.a1 {
+    position: absolute;
+    left: 332.6px
+}
+
+.a2 {
+    position: absolute;
+    left: 498.4px
+}
+
+.a3 {
+    position: absolute;
+    left: 664.2px
+}
+
+.a4 {
+    position: absolute;
+    left: 830px
+}
+
+.ca {
+    position: absolute;
+    left: 995.8px
+}
+
+.q1 {position:absolute; top:60px}
+
+p {font-family: 'Helvetica'; position: relative; left:90px}
+
+#pquestion{position: absolute; left: 10px}
+#plength{position: absolute; left: 176.8px}
+#pa1{position: absolute; left: 342.6px}
+#pa2{position: absolute; left: 508.4px}
+#pa3{position: absolute; left: 674.2px}
+#pa4{position: absolute; left: 840px}
+#pca{position: absolute; left: 1005.8px}
+#writebutton{position: absolute; bottom:0px;}
+#inputs{position: relative; height:150px}
+#rbutton{position: absolute; bottom:0px; left:110px}
+#finishbutton{position: absolute; bottom:0px; left:275px}
